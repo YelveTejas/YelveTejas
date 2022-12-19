@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tejas Yelve</h1>
 <h3 align="center">Hello,I am Tejas Yelve learning full stack development in masai school.I have made various individual and group projects in my journey. I am always keen to learn new techlogies and it's application to solve real life problems.I have completed my graduation in Bachelor of commerece degree securing first class. My leasures are riding bikes, dance ,reading and Travelling.</h3>
+
 <div align='center'>
 <img align='center' src='https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966' alt='jey'/>
   </div>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yelvetejas&label=Profile%20views&color=0e75b6&style=flat" alt="yelvetejas" /> </p>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=YelveTejas&theme=darkhub)](https://github.com/YelveTejas/github-profile-trophy)
+
 
 - 🌱 I’m currently learning **Redux**
 
@@ -11,22 +18,13 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y7DFIqh6waMPzkrTOb2u2MvRTJfo4nMv/view?usp=share_link)
 
 -  My Portfilio [Github.io Link here](https://yelvetejas.github.io/)
+ 
+- Linkedin [Click here](https://www.linkedin.com/in/tejas-yelve-b889671bb/)
 
 - 📫 How to reach me **tejas.yelve20@gmail.com**
-- 
-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://www.linkedin.com/in/tejas-yelve-b889671bb/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yelvetejas" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div>
+<div align='center'>
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,8 +38,10 @@
 </div>
  
  ## Git Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yelvetejas&show_icons=true&locale=en&layout=compact" alt="yelvetejas" /></p>
+ <div align='center'>
+<p><img width='60%' align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yelvetejas&show_icons=true&locale=en&layout=compact" alt="yelvetejas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yelvetejas&show_icons=true&locale=en" alt="yelvetejas" /></p>
+<p>&nbsp;<img width='60%' align="center" src="https://github-readme-stats.vercel.app/api?username=yelvetejas&show_icons=true&locale=en" alt="yelvetejas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yelvetejas&" alt="yelvetejas" /></p>
+<p><img width='60%' align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yelvetejas&" alt="yelvetejas" /></p>
+  </div>
