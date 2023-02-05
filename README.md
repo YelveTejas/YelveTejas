@@ -18,11 +18,9 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y7DFIqh6waMPzkrTOb2u2MvRTJfo4nMv/view?usp=share_link)
 
 -  My Portfilio [Github.io Link here](https://yelvetejas.github.io/)
- 
-- Linkedin [Click here](https://www.linkedin.com/in/tejas-yelve-b889671bb/)
-
-- 📫 How to reach me **tejas.yelve20@gmail.com**
-
+-  📫 How to reach me **tejas.yelve20@gmail.com**
+- <h3>Connect With Me</h3>
+- <a href="https://www.linkedin.com/in/tejas-yelve-b889671bb/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashmondal" height="30" width="40" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <div align='center'>
   
