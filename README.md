@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React,js,redux**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y7DFIqh6waMPzkrTOb2u2MvRTJfo4nMv/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OLxTThKBDvk85P1UsMgej-E8EQRAfm-E/view?usp=share_link)
 
 -  My Portfilio [Github.io Link here](https://yelvetejas.github.io/)
 -  📫 How to reach me **tejas.yelve20@gmail.com**
