@@ -2,7 +2,7 @@
 <h3 align="center">Analytical and detail-oriented Full Stack Developer. Passionate about learning new technologies and their applications to solve real life problems. Ability to write clean, optimized and reusable code. Looking forward to opportunities that can bring challenges and learning to hone  skills.</h3>
 
 <div align='center'>
-<img align='center' src='https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966' alt='jey'/>
+<img align='center' height='400px' src='https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966' alt='jey'/>
   </div>
 
 
